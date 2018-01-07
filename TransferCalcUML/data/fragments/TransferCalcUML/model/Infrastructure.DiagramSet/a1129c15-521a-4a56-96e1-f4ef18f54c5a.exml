@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="TransferCalcUML" version="4">
+  <OBJECT>
+    <ID name="TransferCalcUML" mc="Infrastructure.DiagramSet" uid="a1129c15-521a-4a56-96e1-f4ef18f54c5a"/>
+    <PID name="TransferCalcUML" mc="Standard.Project" uid="20673663-3c4c-471b-b069-2449a94d8df2"/>
+    <ATTRIBUTES>
+      <ATT name="Name"><![CDATA[TransferCalcUML]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES></DEPENDENCIES>
+  </OBJECT>
+</EXT>

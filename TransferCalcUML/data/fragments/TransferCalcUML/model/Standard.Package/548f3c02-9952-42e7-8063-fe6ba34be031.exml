@@ -1,0 +1,37 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="transfercalcuml" version="4">
+  <OBJECT>
+    <ID name="transfercalcuml" mc="Standard.Package" uid="548f3c02-9952-42e7-8063-fe6ba34be031"/>
+    <PID name="TransferCalcUML" mc="Standard.Project" uid="20673663-3c4c-471b-b069-2449a94d8df2"/>
+    <ATTRIBUTES>
+      <ATT name="IsInstantiable">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[transfercalcuml]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="OwnedBehavior">
+        <COMPID name="Interaction" mc="Standard.Interaction" uid="0c35c6f9-5762-4b82-8dcf-30c871de1f3d"/>
+      </COMP>
+      <COMP relation="OwnedElement">
+        <COMPID name="TransferCalc" mc="Standard.Class" uid="98bf5cf2-9602-4f7c-98c2-3c2b9abaf2a9"/>
+        <COMPID name="TransferOrbitCalculator" mc="Standard.Class" uid="224565df-ea86-4572-9acd-28d114c4713e"/>
+        <COMPID name="EjectionOrbitCalculator" mc="Standard.Class" uid="2e33f46a-e893-4929-9289-831b6069f036"/>
+        <COMPID name="OrbitCalculator" mc="Standard.Class" uid="41cda9f5-42e4-4bc3-ac50-0eebf8565cd9"/>
+        <COMPID name="Orbit" mc="Standard.Class" uid="dcb7945f-eb95-4011-97a6-0561cccd80f0"/>
+        <COMPID name="GUI" mc="Standard.Class" uid="5c7a504f-a354-4dd9-b803-358015615cad"/>
+        <COMPID name="OrbitBuilder" mc="Standard.Class" uid="9c566ca5-b931-4722-a577-ad18f68747ea"/>
+        <COMPID name="ConfigFileReader" mc="Standard.Class" uid="be3f221e-866a-493f-87e6-5b6c1b7d2680"/>
+        <COMPID name="configFile" mc="Standard.Class" uid="ae6f9f08-cbe6-4ae1-a659-4f15abb3d195"/>
+        <COMPID name="TransferCalc" mc="Standard.Component" uid="6c876f55-253b-4b80-acde-bfd7d602f36a"/>
+      </COMP>
+      <COMP relation="Product">
+        <COMPID name="transfercalcuml Class diagram" mc="Standard.ClassDiagram" uid="e4cab3bf-6d2a-4174-845d-5ac52583f94a"/>
+        <COMPID name="Component diagram" mc="Standard.ClassDiagram" uid="e086d273-a0a6-4b6d-9708-98ef51ee421b"/>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>
