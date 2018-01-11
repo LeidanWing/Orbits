@@ -1,4 +1,4 @@
-#include "TCLOG.h"
+#include "TCLog.h"
 
 int Logging::TCLog(Logging::Level i_level, const std::string & i_message)
 {
