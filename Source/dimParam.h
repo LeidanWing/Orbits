@@ -47,7 +47,7 @@ namespace Dimensions
 		}
 
 	public:
-		WrongUnitsException(WrongUnitsException::ExceptionType i_type) : m_type(i_type) { }
+		WrongUnitsException(ExceptionType i_type) : m_type(i_type) { }
 		int getType() const { return m_type; }
 	};
 
