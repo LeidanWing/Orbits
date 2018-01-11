@@ -1,0 +1,5 @@
+# Ignore specific folders
+.vs/
+Debug/
+Release/
+x64/
